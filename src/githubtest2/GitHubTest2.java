@@ -22,5 +22,6 @@ public class GitHubTest2 {
      public static void Cottrell(){
         System.out.println("Lee Cottrell!!");
         System.out.println("Woo Hoo");
+        System.out.println("Woo Hoo again");
     }
 }
