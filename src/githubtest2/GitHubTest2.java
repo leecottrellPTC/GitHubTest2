@@ -17,6 +17,7 @@ public class GitHubTest2 {
     public static void main(String[] args) {
         // TODO code application logic here
         Cottrell();
+        Nya();
     }
     
      public static void Cottrell(){
@@ -24,4 +25,10 @@ public class GitHubTest2 {
         System.out.println("Woo Hoo");
         System.out.println("Woo Hoo again");
     }
+     
+     public static void Nya() {
+         System.out.println("Nya☆Nya");
+         System.out.println("Brandon Kearns was here");
+         System.out.println("Nya☆Nya");
+     }
 }
