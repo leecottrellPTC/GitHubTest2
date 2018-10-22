@@ -17,6 +17,7 @@ public class GitHubTest2 {
     public static void main(String[] args) {
         // TODO code application logic here
         Cottrell();
+        Thomaswashere();
     }
     
      public static void Cottrell(){
@@ -24,4 +25,8 @@ public class GitHubTest2 {
         System.out.println("Woo Hoo");
         System.out.println("Woo Hoo again");
     }
+     
+     public static void Thomaswashere(){
+        System.out.println("Thomas was here.");
+     }
 }
