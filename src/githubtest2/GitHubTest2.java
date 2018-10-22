@@ -28,5 +28,6 @@ public class GitHubTest2 {
      
      public static void Thomaswashere(){
         System.out.println("Thomas was here.");
+        //Henry Thomas added this method.
      }
 }
