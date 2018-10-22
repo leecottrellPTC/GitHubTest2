@@ -17,11 +17,18 @@ public class GitHubTest2 {
     public static void main(String[] args) {
         // TODO code application logic here
         Cottrell();
+        DusciWasHere();
     }
     
      public static void Cottrell(){
         System.out.println("Lee Cottrell!!");
         System.out.println("Woo Hoo");
         System.out.println("Woo Hoo again");
+    }
+     
+     public static void DusciWasHere()
+             
+    {
+        System.out.println("Jeno Dusci was here");
     }
 }
