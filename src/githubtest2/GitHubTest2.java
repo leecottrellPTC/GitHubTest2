@@ -23,5 +23,13 @@ public class GitHubTest2 {
         System.out.println("Lee Cottrell!!");
         System.out.println("Woo Hoo");
         System.out.println("Woo Hoo again");
-    }
-}
+        
+     }
+        
+        public static void ianWasHere() {
+            System.out.println("Ian was here");
+        }
+            
+        }
+    
+
