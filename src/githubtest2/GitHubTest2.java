@@ -19,7 +19,11 @@ public class GitHubTest2 {
     public static void main(String[] args) {
         // TODO code application logic here
         Cottrell();
+
+        Cowden();
+
         DominicWasHere();
+
     }
     
      public static void Cottrell(){
@@ -27,7 +31,11 @@ public class GitHubTest2 {
         System.out.println("Woo Hoo");
         System.out.println("Woo Hoo again");
     }
-     
+
+    public static void Cowden(){
+        System.out.println("Cowden was here");
+    }
+
      public static void DominicWasHere(){
          System.out.print("Steppin on the beach!");
          Timer timer = new Timer();
@@ -45,4 +53,5 @@ public class GitHubTest2 {
              }
          }, 0, 15000);
      }
+
 }
