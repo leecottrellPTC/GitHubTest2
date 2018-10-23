@@ -20,6 +20,7 @@ public class GitHubTest2 {
         // TODO code application logic here
         Cottrell();
         DominicWasHere();
+        LoganWasHere();
     }
     
      public static void Cottrell(){
@@ -44,5 +45,9 @@ public class GitHubTest2 {
                 }
              }
          }, 0, 15000);
+     }
+     
+     public static void LoganWasHere() {
+         System.out.println("\nLogan was here\nHello GitHub!");
      }
 }
