@@ -18,16 +18,20 @@ public class GitHubTest2 {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-        Tryhorn();
     }
     
-     public static void Tryhorn(){
+     public static void Cottrell(){
+        System.out.println("Lee Cottrell!!");
+        System.out.println("Woo Hoo");
+        System.out.println("Woo Hoo again");
+    }
+    
+    public static void Tryhorn(){
         System.out.println("Carys Tryhorn!!");
         System.out.println("Puppies!");
         boolean arePuppiesCute = false;
         if (arePuppiesCute ^ true) //Bitwise operations
             System.out.println("Arf!");
     }
-     
      
 }
