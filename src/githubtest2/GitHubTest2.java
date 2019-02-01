@@ -26,7 +26,7 @@ public class GitHubTest2 {
         System.out.println("Woo Hoo again");
     }
      
-     public static void CottrellWasHere(){
+     public static void HaleWasHere(){
          //infinite loop
          for(int i = 0; i < 20; i++)
          {
