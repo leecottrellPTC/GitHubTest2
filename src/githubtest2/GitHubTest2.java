@@ -26,5 +26,9 @@ public class GitHubTest2 {
         System.out.println("Woo Hoo again");
     }
      
-     
+     public static void Coby() // Created Method
+     {
+         System.out.println("Coby might have been here at some point.");
+         System.out.println("Just maybe. Nobody can either confirm nor deny it.");
+     }
 }
