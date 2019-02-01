@@ -17,7 +17,7 @@ public class GitHubTest2 {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        // TODO code application logic here
+        // TODO code application logic
     }
     
      public static void Cottrell(){
@@ -25,6 +25,10 @@ public class GitHubTest2 {
         System.out.println("Woo Hoo");
         System.out.println("Woo Hoo again");
     }
+     public static void JohnWuzHere()
+     {
+         System.out.println("John was here");
+     }
      
      
 }
