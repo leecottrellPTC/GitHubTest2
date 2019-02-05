@@ -27,4 +27,8 @@ public class GitHubTest2 {
     }
      
      
+     public static void cottrellWasHere() {
+         System.out.println("Cottrell was here");
+     }
+     
 }
