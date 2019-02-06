@@ -26,5 +26,8 @@ public class GitHubTest2 {
         System.out.println("Woo Hoo again");
     }
      
-     
+     public static void brittanyWashere()
+     {
+         System.out.println("Hi");
+     }
 }
