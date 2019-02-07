@@ -26,5 +26,10 @@ public class GitHubTest2 {
         System.out.println("Woo Hoo again");
     }
      
+     public static void cageWasHere()
+     {
+         System.out.println("The earth is flat, jk its a cube");
+     }
+     
      
 }
