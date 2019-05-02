@@ -26,5 +26,8 @@ public class GitHubTest2 {
         System.out.println("Woo Hoo again");
     }
      
-     
+     public static void Rumpf() {
+         System.out.println("Steven Rumpf!");
+         System.out.println("Prepar to Burn!!!");
+     }
 }
