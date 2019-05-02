@@ -29,8 +29,8 @@ public class GitHubTest2 {
     public static void Tryhorn(){
         System.out.println("Carys Tryhorn!!");
         System.out.println("Puppies!");
-        boolean arePuppiesCute = false;
-        if (arePuppiesCute ^ true) //Bitwise operations
+        boolean arePuppiesCute = true;
+        if (arePuppiesCute ^ false) //Bitwise operations
             System.out.println("Arf!");
     }
      
