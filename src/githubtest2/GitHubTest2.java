@@ -25,6 +25,13 @@ public class GitHubTest2 {
         System.out.println("Woo Hoo");
         System.out.println("Woo Hoo again");
     }
-     
+    
+    public static void Tryhorn(){
+        System.out.println("Carys Tryhorn!!");
+        System.out.println("Puppies!");
+        boolean arePuppiesCute = true;
+        if (arePuppiesCute ^ false) //Bitwise operations
+            System.out.println("Arf!");
+    }
      
 }
