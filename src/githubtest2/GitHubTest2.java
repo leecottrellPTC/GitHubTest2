@@ -12,6 +12,9 @@ import javax.sound.sampled.Clip;
  * @author cottrell.lee
  */
 public class GitHubTest2 {
+    public static void milburnWasHere(){
+        System.out.println("Milburn was here");
+    }
 
     /**
      * @param args the command line arguments
