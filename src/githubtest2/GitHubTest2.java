@@ -26,5 +26,10 @@ public class GitHubTest2 {
         System.out.println("Woo Hoo again");
     }
      
+     public static void Gerba(){
+         System.out.println("Shane Gerba");
+         System.out.println("Woo hoo");
+         System.out.println("Woo hoo again");
+     }
      
 }
