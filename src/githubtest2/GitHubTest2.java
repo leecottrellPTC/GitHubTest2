@@ -27,4 +27,9 @@ public class GitHubTest2 {
     }
      
      
+     public static void nriamWasHere(){
+     System.out.println("Brian was here");
+ }
 }
+
+
